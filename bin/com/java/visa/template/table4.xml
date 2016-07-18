@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+<w:ignoreElements w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2"/>
+<o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:name="place"/>
+<o:SmartTagType o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:name="country-region"/>
+<o:DocumentProperties>
+<o:Title>1.Exporter</o:Title>
+<o:Author>zyb</o:Author>
+<o:LastAuthor>微软用户</o:LastAuthor>
+<o:Revision>2</o:Revision>
+<o:TotalTime>0</o:TotalTime>
+<o:LastPrinted>1899-12-30T00:00:00Z</o:LastPrinted>
+<o:Created>2013-04-11T12:22:00Z</o:Created>
+<o:LastSaved>2013-04-11T12:22:00Z</o:LastSaved>
+<o:Pages>1</o:Pages>
+<o:Words>139</o:Words>
+<o:Characters>795</o:Characters>
+<o:Bytes>0</o:Bytes>
+<o:Lines>6</o:Lines>
+<o:Paragraphs>1</o:Paragraphs>
+<o:CharactersWithSpaces>933</o:CharactersWithSpaces>
+<o:Version>11.0000</o:Version>
+</o:DocumentProperties>
+<o:CustomDocumentProperties>
+<o:KSOProductBuildVer dt:dt="string">2052-8.1.0.3002</o:KSOProductBuildVer>
+</o:CustomDocumentProperties>
+<w:fonts>
+<w:defaultFonts w:ascii="Times New Roman" w:fareast="宋体" w:h-ansi="Times New Roman" w:cs="Times New Roman"/>
+<w:font w:name="宋体">
+<w:altName w:val="SimSun"/>
+<w:panose-1 w:val="02010600030101010101"/>
+<w:charset w:val="86"/>
+<w:family w:val="Auto"/>
+<w:pitch w:val="variable"/>
+<w:sig w:usb-0="00000003" w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000"/>
+</w:font>
+<w:font w:name="@宋体">
+<w:panose-1 w:val="02010600030101010101"/>
+<w:charset w:val="86"/>
+<w:family w:val="Auto"/>
+<w:pitch w:val="variable"/>
+<w:sig w:usb-0="00000003" w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000"/>
+</w:font>
+</w:fonts>
+<w:styles>
+<w:versionOfBuiltInStylenames w:val="4"/>
+<w:latentStyles w:defLockedState="off" w:latentStyleCount="156"/>
+<w:style w:type="paragraph" w:default="on" w:styleId="a">
+<w:name w:val="Normal"/>
+<wx:uiName wx:val="正文"/>
+<w:pPr>
+<w:widowControl w:val="off"/>
+<w:jc w:val="both"/>
+</w:pPr>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+<w:kern w:val="2"/>
+<w:sz w:val="21"/>
+<w:sz-cs w:val="24"/>
+<w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:default="on" w:styleId="a0">
+<w:name w:val="Default Paragraph Font"/>
+<wx:uiName wx:val="默认段落字体"/>
+</w:style>
+<w:style w:type="table" w:default="on" w:styleId="a1">
+<w:name w:val="Normal Table"/>
+<wx:uiName wx:val="普通表格"/>
+<w:semiHidden/>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+</w:rPr>
+<w:tblPr>
+<w:tblInd w:w="0" w:type="dxa"/>
+<w:tblCellMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:left w:w="108" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:right w:w="108" w:type="dxa"/>
+</w:tblCellMar>
+</w:tblPr>
+</w:style>
+<w:style w:type="list" w:default="on" w:styleId="a2">
+<w:name w:val="No List"/>
+<wx:uiName wx:val="无列表"/>
+<w:semiHidden/>
+</w:style>
+<w:style w:type="table" w:styleId="a3">
+<w:name w:val="Table Grid"/>
+<wx:uiName wx:val="网格型"/>
+<w:basedOn w:val="a1"/>
+<w:rsid w:val="001E3A49"/>
+<w:pPr>
+<w:widowControl w:val="off"/>
+<w:jc w:val="both"/>
+</w:pPr>
+<w:rPr>
+<wx:font wx:val="Times New Roman"/>
+</w:rPr>
+<w:tblPr>
+<w:tblInd w:w="0" w:type="dxa"/>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+</w:tblBorders>
+<w:tblCellMar>
+<w:top w:w="0" w:type="dxa"/>
+<w:left w:w="108" w:type="dxa"/>
+<w:bottom w:w="0" w:type="dxa"/>
+<w:right w:w="108" w:type="dxa"/>
+</w:tblCellMar>
+</w:tblPr>
+</w:style>
+</w:styles>
+<w:shapeDefaults>
+<o:shapedefaults v:ext="edit" spidmax="2050"/>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1"/>
+</o:shapelayout>
+</w:shapeDefaults>
+<w:bgPict>
+<w:background w:bgcolor="white"/>
+</w:bgPict>
+<w:docPr>
+<w:view w:val="print"/>
+<w:zoom w:percent="100"/>
+<w:doNotEmbedSystemFonts/>
+<w:bordersDontSurroundHeader/>
+<w:bordersDontSurroundFooter/>
+<w:proofState w:spelling="clean" w:grammar="clean"/>
+<w:attachedTemplate w:val="Normal.dot"/>
+<w:defaultTabStop w:val="420"/>
+<w:drawingGridVerticalSpacing w:val="156"/>
+<w:displayHorizontalDrawingGridEvery w:val="0"/>
+<w:displayVerticalDrawingGridEvery w:val="2"/>
+<w:punctuationKerning/>
+<w:characterSpacingControl w:val="CompressPunctuation"/>
+<w:webPageEncoding w:val="x-cp20936"/>
+<w:optimizeForBrowser/>
+<w:validateAgainstSchema w:val="off"/>
+<w:saveInvalidXML w:val="off"/>
+<w:ignoreMixedContent w:val="off"/>
+<w:alwaysShowPlaceholderText w:val="off"/>
+<w:doNotUnderlineInvalidXML/>
+<w:compat>
+<w:spaceForUL/>
+<w:balanceSingleByteDoubleByteWidth/>
+<w:doNotLeaveBackslashAlone/>
+<w:ulTrailSpace/>
+<w:doNotExpandShiftReturn/>
+<w:adjustLineHeightInTable/>
+<w:breakWrappedTables/>
+<w:snapToGridInCell/>
+<w:wrapTextWithPunct/>
+<w:useAsianBreakRules/>
+<w:dontGrowAutofit/>
+<w:useFELayout/>
+</w:compat>
+<wsp:rsids>
+<wsp:rsidRoot wsp:val="00172A27"/>
+<wsp:rsid wsp:val="000F5986"/>
+<wsp:rsid wsp:val="001849D9"/>
+<wsp:rsid wsp:val="001E3A49"/>
+<wsp:rsid wsp:val="002D3E0E"/>
+<wsp:rsid wsp:val="0031137B"/>
+<wsp:rsid wsp:val="003F4659"/>
+<wsp:rsid wsp:val="00480BDB"/>
+<wsp:rsid wsp:val="00607075"/>
+<wsp:rsid wsp:val="0075702B"/>
+<wsp:rsid wsp:val="00813636"/>
+<wsp:rsid wsp:val="00B41816"/>
+<wsp:rsid wsp:val="00C808DD"/>
+<wsp:rsid wsp:val="00CF67E8"/>
+<wsp:rsid wsp:val="00D64C9D"/>
+<wsp:rsid wsp:val="00DF1EFB"/>
+<wsp:rsid wsp:val="00E83FE3"/>
+</wsp:rsids>
+</w:docPr>
+<w:body>
+<wx:sect>
+<w:tbl>
+<w:tblPr>
+<w:tblW w:w="8597" w:type="dxa"/>
+<w:tblInd w:w="214" w:type="dxa"/>
+<w:tblBorders>
+<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto"/>
+</w:tblBorders>
+<w:tblLayout w:type="Fixed"/>
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="1334"/>
+<w:gridCol w:w="2520"/>
+<w:gridCol w:w="106"/>
+<w:gridCol w:w="174"/>
+<w:gridCol w:w="1340"/>
+<w:gridCol w:w="1800"/>
+<w:gridCol w:w="1323"/>
+</w:tblGrid>
+<w:tr wsp:rsidR="000F5986" wsp:rsidTr="001E3A49">
+<w:trPr>
+<w:cantSplit/>
+<w:trHeight w:val="1391"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3960" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>1.Exporter</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRPr="00813636" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+<wx:font wx:val="宋体"/>
+<w:b/>
+<w:sz w:val="18"/>
+<w:sz-cs w:val="18"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+<wx:font wx:val="宋体"/>
+<w:b/>
+<w:color w:val="3366FF"/>
+<w:sz w:val="18"/>
+<w:sz-cs w:val="18"/>
+</w:rPr>
+<w:t>  </w:t>
+</w:r>
+<w:r wsp:rsidRPr="00813636">
+<w:rPr>
+<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:hint="fareast"/>
+<wx:font wx:val="宋体"/>
+<w:b/>
+<w:sz w:val="18"/>
+<w:sz-cs w:val="18"/>
+</w:rPr>
+<w:t>  </w:t>
+</w:r>
+<w:r wsp:rsidRPr="00813636">
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t> ${table4_2}</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4637" w:type="dxa"/>
+<w:gridSpan w:val="4"/>
+<w:vmerge w:val="restart"/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>Certificate No.  </w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>         ${table4_1}</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+<w:t>CERTIFICATE OF ORIGIN</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+<w:t>OF</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+<w:t>THE PEOPLE</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+<w:t>’</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+<w:t>S REPUBLIC OF </w:t>
+</w:r>
+<st1:country-region w:st="on">
+<st1:place w:st="on">
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+<w:t>CHINA</w:t>
+</w:r>
+</st1:place>
+</st1:country-region>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr wsp:rsidR="000F5986" wsp:rsidTr="001E3A49">
+<w:trPr>
+<w:cantSplit/>
+<w:trHeight w:val="1566"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3960" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>2.Consignee</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="00813636">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b-cs/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b-cs/>
+<w:sz-cs w:val="21"/>
+</w:rPr>
+<w:t>   ${table4_3}</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4637" w:type="dxa"/>
+<w:gridSpan w:val="4"/>
+<w:vmerge/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr wsp:rsidR="000F5986" wsp:rsidTr="001E3A49">
+<w:trPr>
+<w:cantSplit/>
+<w:trHeight w:val="1069"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3960" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>3.Means of transport and route</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="001849D9">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>    ${table4_4}</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4637" w:type="dxa"/>
+<w:gridSpan w:val="4"/>
+<w:vmerge w:val="restart"/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>5.For certifying authority use only</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr wsp:rsidR="000F5986" wsp:rsidTr="001E3A49">
+<w:trPr>
+<w:cantSplit/>
+<w:trHeight w:val="805"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="3960" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>4.Country/region of destination</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="00C808DD">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>   ${table4_5}</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4637" w:type="dxa"/>
+<w:gridSpan w:val="4"/>
+<w:vmerge/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr wsp:rsidR="00DF1EFB" wsp:rsidTr="00607075">
+<w:trPr>
+<w:trHeight w:val="719"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1334" w:type="dxa"/>
+</w:tcPr>
+<w:p wsp:rsidR="00DF1EFB" wsp:rsidRPr="00607075" wsp:rsidRDefault="00DF1EFB" wsp:rsidP="00607075">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>6.Marks and numbers</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2520" w:type="dxa"/>
+<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+</w:tcPr>
+<w:p wsp:rsidR="00DF1EFB" wsp:rsidRDefault="00DF1EFB" wsp:rsidP="001E3A49">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>7.Number and kind of packages;</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>description of goods</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1620" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+</w:tcPr>
+<w:p wsp:rsidR="00DF1EFB" wsp:rsidRDefault="00DF1EFB" wsp:rsidP="001E3A49">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>8.H.S code</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1800" w:type="dxa"/>
+<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+</w:tcPr>
+<w:p wsp:rsidR="00DF1EFB" wsp:rsidRDefault="00DF1EFB" wsp:rsidP="001E3A49">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>9.Quantity</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1323" w:type="dxa"/>
+<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+</w:tcPr>
+<w:p wsp:rsidR="00DF1EFB" wsp:rsidRDefault="00DF1EFB" wsp:rsidP="001E3A49">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>10.Number and date of invoices</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr wsp:rsidR="001E3A49" wsp:rsidTr="00607075">
+<w:trPr>
+<w:trHeight w:val="2809"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1334" w:type="dxa"/>
+</w:tcPr>
+<w:p wsp:rsidR="001E3A49" wsp:rsidRDefault="001E3A49" wsp:rsidP="00CF67E8">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>${table4_6}</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="5940" w:type="dxa"/>
+<w:gridSpan w:val="5"/>
+<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+</w:tcPr>
+<w:tbl>
+<w:tblPr>
+<w:tblStyle w:val="a3"/>
+<w:tblW w:w="5853" w:type="dxa"/>
+<w:tblBorders>
+<w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+<w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+<w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+<w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+<w:insideH w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+<w:insideV w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/>
+</w:tblBorders>
+<w:tblLayout w:type="Fixed"/>
+<w:tblLook w:val="01E0"/>
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="2434"/>
+<w:gridCol w:w="1568"/>
+<w:gridCol w:w="1851"/>
+</w:tblGrid>
+
+
+<#list table4_list as being>
+
+
+
+<w:tr wsp:rsidR="001E3A49" wsp:rsidTr="002D3E0E">
+<w:trPr>
+<w:trHeight w:val="500"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2434" w:type="dxa"/>
+</w:tcPr>
+<w:p wsp:rsidR="001E3A49" wsp:rsidRDefault="001E3A49" wsp:rsidP="001E3A49">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>${being.table4_7}</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1568" w:type="dxa"/>
+</w:tcPr>
+<w:p wsp:rsidR="001E3A49" wsp:rsidRDefault="001E3A49" wsp:rsidP="001E3A49">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>${being.table4_8}</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1851" w:type="dxa"/>
+</w:tcPr>
+<w:p wsp:rsidR="001E3A49" wsp:rsidRDefault="001E3A49" wsp:rsidP="001E3A49">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>${being.table4_9}</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+
+
+</#list>
+
+
+</w:tbl>
+<w:p wsp:rsidR="001E3A49" wsp:rsidRDefault="001E3A49">
+<w:pPr>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<wx:allowEmptyCollapse/>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1323" w:type="dxa"/>
+<w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+</w:tcPr>
+<w:p wsp:rsidR="001E3A49" wsp:rsidRDefault="001E3A49" wsp:rsidP="00D64C9D">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>${table4_10}</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr wsp:rsidR="000F5986" wsp:rsidTr="001E3A49">
+<w:trPr>
+<w:trHeight w:val="2680"/>
+</w:trPr>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4134" w:type="dxa"/>
+<w:gridSpan w:val="4"/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>11.Declaration by the exporter</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>     The undersigned hereby declares that the above details and statements are correct;</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t> </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>that all the goods were produced in china and that they comply with the rules of origin of the people’s republic of china.</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="00E83FE3">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz w:val="24"/>
+</w:rPr>
+<w:t>${table4_11}</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>………………………………………………………</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>….</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="13"/>
+<w:sz-cs w:val="13"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="13"/>
+<w:sz-cs w:val="13"/>
+</w:rPr>
+<w:t>Place and date, signature and stamp of certifying authority</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4463" w:type="dxa"/>
+<w:gridSpan w:val="3"/>
+</w:tcPr>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>12.Certification</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>   It is hereby certified that the declaration by the exporter is correct.</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:b/>
+<w:sz w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="15"/>
+<w:sz-cs w:val="15"/>
+</w:rPr>
+<w:t>………………………………………………………………</w:t>
+</w:r>
+</w:p>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+<w:sz w:val="13"/>
+<w:sz-cs w:val="13"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="13"/>
+<w:sz-cs w:val="13"/>
+</w:rPr>
+<w:t>Place and date, signature and stamp of certifying authority</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:p wsp:rsidR="000F5986" wsp:rsidRDefault="000F5986">
+<w:pPr>
+<w:rPr>
+<w:rFonts w:hint="fareast"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:sectPr wsp:rsidR="000F5986">
+<w:pgSz w:w="11906" w:h="16838"/>
+<w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+<w:cols w:space="720"/>
+<w:docGrid w:type="lines" w:line-pitch="312"/>
+</w:sectPr>
+</wx:sect>
+</w:body>
+</w:wordDocument>
